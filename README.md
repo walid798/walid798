@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 
 ## ⚡ Badges ##
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/walidmali795)
-[![ITI](https://img.shields.io/badge/-ITI-blue?style=flat-square&logo=education&logoColor=white)](https://www.iti.gov.eg)
