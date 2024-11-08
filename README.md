@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
 
 ## ⚡ Badges ##
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com](https://www.hackerrank.com/profile/walidmali795))
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/walidmali795)
