@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I`m Graduated From Faculty of Computers and Information and Working as a Teaching Assistant at Information Systems Department.
-- 🔭 Recntly Joined as Trainee at Information Technology Institute (ITI) in Data Visualization Track. 
+- 🔭 Recntly Graduate From Information Technology Institute (ITI) in Data Visualization Track. 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
 
