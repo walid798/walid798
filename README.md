@@ -90,8 +90,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LLM](https://img.shields.io/badge/LLM-Powered-4B0082?style=for-the-badge)
 
-## 📫 Connect with me:
-
 
 ## ⚡ Badges ##
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/walidmali795)
