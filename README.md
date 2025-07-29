@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walidmohamed&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walid798&show_icons=true&theme=github_dark&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidmohamed&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid798&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -79,9 +79,9 @@ Here are some ideas to get you started:
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-mohamed97/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:walidmohamedcs@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://github.com/walidmohamed)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:walidmali795@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://github.com/walid798)
 
 ---
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ![LLM](https://img.shields.io/badge/LLM-Powered-4B0082?style=for-the-badge)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
+
 
 ## ⚡ Badges ##
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/walidmali795)
