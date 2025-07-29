@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Walid Mohamed 👋</h1>
-- I`m Graduated From Faculty of Computers and Information and Working as a Teaching Assistant at Information Systems Department.
-- 🔭 Recntly Graduate From Information Technology Institute (ITI) in Data Analysis Track.
+
 <p align="center">
   🧠 AI Researcher | 🧬 Medical AI & NLP | 🖥️ Teaching Assistant @ Assiut University <br>
   🎓 Master's Student in Information Systems | Data Analyst
 </p>
+
+
+- I`m Graduated From Faculty of Computers and Information and Working as a Teaching Assistant at Information Systems Department.
+
+
+- 🔭 Recntly Graduate From Information Technology Institute (ITI) in Data Analysis Track.
 
 ---
 
