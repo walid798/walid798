@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 ### 🔧 LLM Tooling & Engineering
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="40" alt="Docker"/>
   <img src="https://avatars.githubusercontent.com/u/118248062?s=200&v=4" width="40" alt="LangChain"/>
   <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/faiss-logo.png" width="40" alt="Faiss"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" alt="OpenAI"/>
