@@ -12,6 +12,9 @@
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-blue?logo=googlescholar)](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0009-0001-8012-5836)
 
+### 📄 Selected Publications  
+<!-- GOOGLE-SCHOLAR:START -->
+<!-- GOOGLE-SCHOLAR:END -->
 ---
 
 ### 🧠 About Me
@@ -69,15 +72,7 @@
 
 ---
 
-### 📄 Selected Publications
 
-- **Paper Title 1**  
-  Authors  
-  *Venue, Year*
-
-- **Paper Title 2**  
-  Authors  
-  *Conference, Year*
   
 ### 📬 Contact
 
