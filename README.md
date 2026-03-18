@@ -45,12 +45,18 @@ Here are some ideas to get you started:
 ---
 
 ### 🔧 LLM Tooling & Engineering
-
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/118248062?s=200&v=4" width="40" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/faiss-logo.png" width="40" alt="Faiss"/>
+  <!-- LangChain (no official simple-icons yet → keep avatar but fix size) -->
+  <img src="https://avatars.githubusercontent.com/u/118248062?s=200" width="40" alt="LangChain"/>
+
+  <!-- FAISS (use a more stable SVG mirror) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg" width="40" alt="Faiss (Meta)"/>
+
+  <!-- OpenAI (FIXED) -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" alt="OpenAI"/>
-  <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/main/docs/images/onnxruntime-logo.png" width="40" alt="ONNX"/>
+
+  <!-- ONNX Runtime (FIXED → use ONNX official icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/onnx.svg" width="40" alt="ONNX Runtime"/>
 </p>
 
 ---
@@ -77,14 +83,12 @@ Here are some ideas to get you started:
 
 ### 📬 Let's Connect
 
-### 📬 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:walidmali795@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://github.com/walid798)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8012-5836)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-blue?logo=googlescholar)](...)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](...)
 
 ---
 
