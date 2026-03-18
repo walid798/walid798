@@ -87,8 +87,10 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:walidmali795@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://github.com/walid798)
 
-[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-blue?logo=googlescholar)](...)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](...)
+### 🎓 Academic Profiles
+
+[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-blue?logo=googlescholar)](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0009-0001-8012-5836)
 
 ---
 
