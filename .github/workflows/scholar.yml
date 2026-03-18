@@ -18,7 +18,7 @@ jobs:
         with:
           scholar_id: 2iwarAMAAAAJ
           max_publications: 10
-
+          sort_by: "year"
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
