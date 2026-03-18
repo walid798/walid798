@@ -69,6 +69,16 @@
 
 ---
 
+### 📄 Selected Publications
+
+- **Paper Title 1**  
+  Authors  
+  *Venue, Year*
+
+- **Paper Title 2**  
+  Authors  
+  *Conference, Year*
+  
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/walid-m-ali/)
