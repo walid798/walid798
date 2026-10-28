@@ -100,12 +100,12 @@ My research publications and scholarly contributions are available through:
 
 | Area | Institution / Experience |
 |---|---|
-<!-- | Ph.D. | Incoming student, Artificial Intelligence in Medicine and Health, University of Louisville | -->
 | M.Sc. | Information Systems, Assiut University |
 | Academic Position | Assistant Lecturer, Department of Information Systems, Assiut University |
 | Professional Training | Information Technology Institute (ITI), Data Analysis Track |
 | Teaching Interests | Artificial Intelligence, Machine Learning, NLP, and LLMs in Medicine |
 
+<!-- | Ph.D. | Incoming student, Artificial Intelligence in Medicine and Health, University of Louisville | -->
 ---
 
 ## GitHub Activity
