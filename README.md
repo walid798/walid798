@@ -1,85 +1,144 @@
-<h1 align="center">Hi there, I'm Walid Mohamed 👋</h1>
 
-<p align="center">
-  🧠 AI Researcher | 🧬 Medical AI & NLP | 🖥️ Teaching Assistant @ Assiut University <br>
-  🎓 M.Sc. Student in Information Systems | Data Analyst
-</p>
+<div align="center">
 
----
+# Hi, I'm Walid Mohamed 👋
 
-### 🎓 Academic Profiles
+### AI Researcher | Medical AI | Multimodal Learning | Large Language Models
 
-[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-blue?logo=googlescholar)](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0009-0001-8012-5836)
+**Assistant Lecturer @ Assiut University, Egypt**  
+<!-- **Incoming Ph.D. Student — University of Louisville, USA**  -->
+**M.Sc. in Information Systems**
 
-### 📄 Selected Publications  
-<!-- GOOGLE-SCHOLAR:START -->
-<!-- GOOGLE-SCHOLAR:END -->
----
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8012-5836)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-m-ali/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:walidmali795@gmail.com)
 
-### 🧠 About Me
-
-- Teaching Assistant at the **Information Systems Department, Assiut University**
-- Graduate of the **Faculty of Computers and Information**
-- Completed **Information Technology Institute (ITI)** training in *Data Analysis Track*
-- Research focus: **Medical AI, LLMs, and Multimodal Learning**
+</div>
 
 ---
 
-### 🧪 Current Projects
+## About Me
 
-- Breast Cancer pCR Prediction using Clinical Narratives and LLMs  
-- Topic-Oriented Chain-of-Thought Summarization  
-- Prostate Cancer MRI Feature Analysis  
-- Course Development: *LLMs in Medicine*  
-- Thesis: *Enhancing Intelligent Analysis of Textual Data*
+I am an **AI researcher and Assistant Lecturer** in the Department of Information Systems at **Assiut University, Egypt**, with an M.Sc. in Information Systems.
 
----
 
-### 🚀 Programming & Frameworks
+My research focuses on developing reliable, interpretable, and clinically relevant artificial intelligence systems that integrate medical imaging, clinical narratives, and structured patient information.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-</p>
+I am particularly interested in advancing **multimodal learning, medical computer vision, natural language processing, and large language models** for healthcare applications.
+
+My broader goal is to bridge methodological AI research and real-world clinical decision support.
 
 ---
 
-### 🔧 LLM Tooling & Engineering
+## Research Interests
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/118248062?s=200" width="40" alt="LangChain"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" alt="OpenAI"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/onnx.svg" width="40" alt="ONNX"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walid798&show_icons=true&theme=github_dark&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid798&layout=compact&theme=github_dark" />
-</p>
+- **Medical Image Analysis:** Classification, and representation learning for MRI, and digital pathology.
+- **Multimodal Medical AI:** Integration of imaging, clinical reports, and structured patient data.
+- **Large Language Models:** Clinical NLP, retrieval-augmented generation, and evidence-grounded reasoning.
+- **Trustworthy AI:** Interpretability, uncertainty estimation, model calibration, and robustness.
+- **Clinical Decision Support:** AI-assisted diagnosis, treatment response prediction, and patient-specific risk assessment.
 
 ---
 
+## Research Projects
 
-  
-### 📬 Contact
+### Multimodal AI for Prostate Cancer Assessment
+Developing frameworks that combine prostate MRI, radiology reports, and clinical variables with retrieval-augmented evidence for diagnostic classification and interpretable predictions.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/walid-m-ali/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:walidmali795@gmail.com)
-[![GitHub](https://img.shields.io/badge/Portfolio-grey?logo=github)](https://github.com/walid798)
+**Keywords:** MRI · Multimodal Fusion · Clinical NLP · Retrieval-Augmented Reasoning
+
+### Breast Cancer Treatment Response Prediction
+Exploring clinical narratives, structured patient characteristics, and evidence-guided language models to predict pathological complete response following neoadjuvant chemotherapy.
+
+**Keywords:** Breast Cancer · LLMs · Clinical Prediction · Multimodal Learning
+
+### AI for Transplant Rejection Assessment
+Investigating the integration of longitudinal laboratory measurements and Doppler ultrasound reports for liver transplant rejection assessment.
+
+**Keywords:** Clinical NLP · Longitudinal Data · Predictive Modeling
+
+### Clinical LLMs and Medical AI Research
+Studying multimodal fusion, personalization, evidence grounding, and translational challenges of large language models in healthcare.
+
+**Keywords:** LLMs · Healthcare AI · Trustworthy AI · Clinical Reasoning
 
 ---
 
-<p align="center">⚡ Focused on advancing AI for healthcare and clinical research.</p>
+## Publications & Academic Profiles
+
+My research publications and scholarly contributions are available through:
+
+- [Google Scholar](https://scholar.google.com/citations?user=2iwarAMAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0001-8012-5836)
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C++, C#, Java, SQL
+
+**Deep Learning:** PyTorch, TensorFlow, CNNs, Transformers, Attention Mechanisms
+
+**Medical AI:** Multimodal Fusion, Clinical NLP, Predictive Modeling, Medical Image Segmentation
+
+**LLM Engineering:** Hugging Face Transformers, LangChain, Retrieval-Augmented Generation, Prompt Engineering
+
+**Data Science:** NumPy, Pandas, Scikit-learn, Statistical Analysis, Data Visualization
+
+**Research Computing:** Git, Linux, Jupyter, GPU Computing
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,cs,java,git,linux&perline=8" alt="Programming and machine learning tools" />
+
+</div>
+
+---
+
+## Academic Background
+
+| Area | Institution / Experience |
+|---|---|
+<!-- | Ph.D. | Incoming student, Artificial Intelligence in Medicine and Health, University of Louisville | -->
+| M.Sc. | Information Systems, Assiut University |
+| Academic Position | Assistant Lecturer, Department of Information Systems, Assiut University |
+| Professional Training | Information Technology Institute (ITI), Data Analysis Track |
+| Teaching Interests | Artificial Intelligence, Machine Learning, NLP, and LLMs in Medicine |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=walid798&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid798&layout=compact&theme=github_dark&hide_border=true" alt="Most used GitHub languages" />
+
+</div>
+
+---
+
+## Collaboration
+
+I am interested in research collaborations involving:
+
+- Multimodal and trustworthy AI for healthcare
+- Medical imaging and clinical language models
+- Retrieval-augmented clinical reasoning
+- Explainable and evidence-grounded medical AI
+- Translational AI and interdisciplinary research
+
+For research discussions or potential collaborations, feel free to connect.
+
+**Email:** [walidmali795@gmail.com](mailto:walidmali795@gmail.com)  
+**LinkedIn:** [linkedin.com/in/walid-m-ali](https://www.linkedin.com/in/walid-m-ali/)
+
+---
+
+<div align="center">
+
+*Advancing reliable, interpretable, and clinically meaningful AI for healthcare.*
+
+</div>
